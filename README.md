@@ -1,3 +1,6 @@
+![banner](https://user-images.githubusercontent.com/59053357/126071167-3c453ea8-a810-4919-a448-41def9b50082.png)
+
+
 # Y-DAT: Youtube Video Download and Transcription
 
 Allows the user to download Youtube video using it's URL (using `youtube_dl` library) and then generate it's transcript using `SpeechRecognizer` library
